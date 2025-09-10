@@ -1,0 +1,5 @@
+{
+  "name": "AI Transaction Classifier",
+  "description": "An intelligent tool to automatically classify financial transactions from an Excel or CSV file. Upload your transaction data, map the relevant columns, and let AI categorize each entry with high accuracy, providing clear reasoning for each classification.",
+  "requestFramePermissions": []
+}
